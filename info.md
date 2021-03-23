@@ -2,5 +2,5 @@
 
 
 ### Social Links
-* [Meetup](https://www.meetup.com/owasp-amman-meetup-group/)
+* [Meetup](https://www.meetup.com/OWASP-Amman-Chapter/)
 * [Social Link](#)
