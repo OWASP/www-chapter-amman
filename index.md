@@ -10,7 +10,7 @@ meetup-group: OWASP-Amman-Chapter
 ---
 
 ## Welcome
-We are excited to welcome you to the OWASP Amman Chapter, a dedicated community committed to advancing web application security, secure software development, and secure coding best practices. It is with great pleasure that we introduce ourselves as the Chapter Leaders: Hamza Althunibat and Osayed Althunibat.  
+We are excited to welcome you to the OWASP Amman Chapter, a dedicated community committed to advancing web application security, secure software development, and secure coding best practices. It is with great pleasure that we introduce ourselves as the Chapter Leaders: [Hamza Althunibat](mailto:hamza.althunibat@owasp.org) and [Osayed Althunibat](mailto:osayed.althunibat@owasp.org).  
 
 We invite you to engage, contribute, and grow with us as we work towards a stronger, more secure digital ecosystem. Join our meetups, participate in discussions, and help shape the future of application security in our region!  
 

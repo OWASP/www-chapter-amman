@@ -6,4 +6,5 @@
 
 ### Social Links
 * [Meetup](https://www.meetup.com/OWASP-Amman-Chapter/)
+* [LinkedIn] (https://www.linkedin.com/company/owasp-amman-jo-chapter/)
 <!-- * [Social Link](#) -->
