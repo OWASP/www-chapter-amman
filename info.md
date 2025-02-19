@@ -7,4 +7,5 @@
 ### Social Links
 * [Meetup](https://www.meetup.com/OWASP-Amman-Chapter/)
 * [LinkedIn](https://www.linkedin.com/company/owasp-amman-jo-chapter/)
+* [Youtube](https://www.youtube.com/@OwaspAmmanChapter)
 <!-- * [Social Link](#) -->
