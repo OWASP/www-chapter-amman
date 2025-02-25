@@ -5,7 +5,7 @@
 * [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct)
 
 ### Social Links
-* [Meetup](https://www.meetup.com/OWASP-Amman-Chapter/)
+* [Meetup](https://www.meetup.com/meetup-group-uuudxldj/)
 * [LinkedIn](https://www.linkedin.com/company/owasp-amman-jo-chapter/)
 * [Youtube](https://www.youtube.com/@OwaspAmmanChapter)
 <!-- * [Social Link](#) -->
