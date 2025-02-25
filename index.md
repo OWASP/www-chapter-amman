@@ -5,7 +5,7 @@ title: OWASP Amman
 tags: amman 
 region: Asia
 country: Jordan 
-meetup-group: OWASP-Amman-Chapter
+meetup-group: OWASP Amman Chapter
 
 ---
 
